@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+WARPix/venv/
+WARPix/__pycache__/
