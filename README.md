@@ -7,6 +7,12 @@ cd WARPix
 pip install -r assets/requirements.txt
 python WARPix.py
 
+
+## Features
+* Scientifically accurate: Implements general relativistic ray-tracing for Kerr black holes.
+* Multi-backend support: Runs efficiently on both GPU and CPU via JAX.
+* Transparent output: Saves rendered shadows as transparent PNG images for easy integration.
+
 ## Examples
 
 Here are two sample shadows WARPix can produce:
