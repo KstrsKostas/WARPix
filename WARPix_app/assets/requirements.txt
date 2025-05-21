@@ -1,0 +1,7 @@
+jax
+jaxlib
+diffrax
+numpy
+matplotlib
+PyQt5
+Pillow
